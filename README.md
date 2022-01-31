@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, I'm Elbert
 
+I am a senior studying computer science at the University of Central Florida. I was previously a Software Engineering Intern at JP Morgan Chase and the lead Mobile Developer for Knight Hacks, UCF's software development and hackathon organization.
+
+Currently, I'm working with the Florida Space Institute on software to support one of NASA's rover competitions.
 <!--
 **ElbertTse/ElbertTse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
